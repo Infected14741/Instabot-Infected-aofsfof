@@ -12,6 +12,7 @@ pkg install python
 git clone https://github.com/Infected14741/V
 clear
 cd V
+unzip V.zip
 mv Instabot.sh /$HOME/Instabot-Infected-aofsfof
 cd 
 cd Instabot-Infected-aofsfof
