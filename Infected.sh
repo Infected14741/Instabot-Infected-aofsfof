@@ -2,13 +2,13 @@
 #version 3.0
 #HAK CIPTA MILIK INFECTED_AOFSFOF
 
-pkg update
-pkg upgrade
-pkg install git
-pkg install figlet
-pkg install toilet
-pkg install python2
-pkg install python
+apt-get update
+apt-get upgrade
+apt-get install git
+apt-get install figlet
+apt-get install toilet
+apt-get install python2
+apt-get install python
 git clone https://github.com/Infected14741/V
 clear
 cd V
