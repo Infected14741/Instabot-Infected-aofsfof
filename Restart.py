@@ -6,7 +6,8 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.2)
-mengetik('Loading...')
-mengetik('Mohon Tunggu...')
-mengetik('Meminta Akses...')
-mengetik('Success...')
+mengetik('Loading Bangsat')
+mengetik('…………………………………………)
+mengetik('Meminta Akses Login')
+mengetik('Success')
+
